@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['628998512588','62895423478398','62856935963124','62882000715589','6285693602003','6289507890397'] // Letakan nomor kamu disini
+global.owner = ['628998512588','628112958665','6283175998566'] // Letakan nomor kamu disini
 global.mods = [] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -19,14 +19,14 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
-  'https://hardianto-chan.herokuapp.com': 'hardianto',
-  'https://neoxr-api.herokuapp.com': 'yntkts',
-  'https://pencarikode.xyz': 'APIKEY',
-  'https://api.xteam.xyz': 'LoveLiveFanart',
-  'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'FVe0JFCdME58YSKmhoDWdRtyuJt',
-  'https://api.lolhuman.xyz': 'BandarBokep',
-  'https://api.vhtear.com': 'sayahafiz',
+  'https://hardianto-chan.herokuapp.com': 'isi apikey',
+  'https://neoxr-api.herokuapp.com': 'isi apikey',
+  'https://pencarikode.xyz': 'isi apikey',
+  'https://api.xteam.xyz': 'isi apikey',
+  'https://zahirr-web.herokuapp.com': 'isi apikey',
+  'https://api.zeks.xyz': 'isi apikey',
+  'https://api.lolhuman.xyz': 'isi apikey',
+  'https://api.vhtear.com': 'isi apikey',
 }
 
 // Sticker WM
@@ -36,7 +36,7 @@ global.author = 'Rafly'
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '*Server Error*'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '© KurumiLoli'
+global.watermark = '© Kurumiloli'
 
 global.multiplier = 69 // Semakin tinggi, semakin sulit naik level
 
