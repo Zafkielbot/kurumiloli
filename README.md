@@ -8,7 +8,7 @@ Wa-bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zafkielbot/kurumiloli
 
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LIX42RUhLi15MBXhfvrF6K)
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HvbN0tnLrorCx0L3dRGG2f)
 
 ## UNTUK PENGGUNA TERMUX/UBUNTU/SSH
 
@@ -135,7 +135,7 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![FadliDarmawan](https://github.com/FadliDarmawan/haruno.png?size=100)](https://github.com/FadliDarmawan/haruno)
 ----|----
 [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [FadliDarmawan](https://github.com/FadliDarmawan/haruno)
  Penulis / Pencipta | Penulis ulang
