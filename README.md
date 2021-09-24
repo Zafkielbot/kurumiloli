@@ -1,7 +1,7 @@
 # kurumiloli
 Wa-bot
 <p align="center">
-	<img src="https://telegra.ph/file/c09a3d241eef1856b910c.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/b6f640a9808f6314f70a2.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">kurumiloli Bot</h1>
 
