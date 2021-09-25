@@ -20,8 +20,9 @@ apt install ffmpeg -y
 apt install imagemagick -y
 git clone https://github.com/Zafkielbot/kurumiloli
 cd kurumiloli
-npm install
+npm i
 npm start
+node .
 ```
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
@@ -34,7 +35,7 @@ npm start
 ```bash
 git clone https://github.com/Zafkielbot/kurumiloli
 cd kurumiloli
-npm install
+npm i
 npm update
 npm index
 ```
