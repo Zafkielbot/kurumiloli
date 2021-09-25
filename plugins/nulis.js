@@ -76,5 +76,9 @@ handler.fail = null
 
 module.exports = handler
 
-// BY MFARELS NJEENK
+// BY MFarelS
+// Website : www.mfarels.id
+// Instagram : @mfarels.id
+// YouTube : MFarelS
+// WhatsApp : +62 812-1908-7237
 // https://GitHub.com/MFarelS/
